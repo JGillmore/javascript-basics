@@ -3,3 +3,19 @@
  margin: 0px;
  padding: 0px;
 }
+#wrapper{
+  width: 970px;
+  height: 800px;
+  margin: 10px;
+  background-color: #1B335D;
+  padding: 10px 0px 0px 0px;
+}
+#header{
+  width: auto;
+  height: 50px;
+  margin: 10px;
+  background-color: #CF3036;
+  border-radius: 10px;
+  color: #C2D6EC;
+  padding: 10px 0px 0px 20px;
+}
