@@ -8,7 +8,7 @@ a{
 }
 #wrapper{
   width: 970px;
-  height: 800px;
+  height: 585px;
   margin: 10px;
   background-color: #1B335D;
   padding: 10px 0px 0px 0px;
@@ -60,4 +60,18 @@ a{
 }
 span{
   color: #8293FA;
+}
+#footer {
+  width: auto;
+  height: 30px;
+  margin: 10px;
+  background-color: #5D6673;
+  border-radius: 10px;
+  color: #C2D6EC;
+  padding: 0px 0px 0px 20px;
+  font-size: 11px;
+}
+#footer p{
+  vertical-align: middle;
+  line-height: 30px;
 }
